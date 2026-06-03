@@ -1,0 +1,33 @@
+name: Google Maps Scout
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   # ogni giorno alle 07:00 UTC (09:00 ora svizzera)
+  workflow_dispatch:        # permette avvio manuale dal sito GitHub
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Esegui scout
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+        run: |
+          echo "GOOGLE_MAPS_API_KEY=${GOOGLE_MAPS_API_KEY}" > .env
+          python3 execution/main.py
+
+      - name: Commit e push risultati
+        run: |
+          git config user.name "google-maps-scout"
+          git config user.email "scout@noreply"
+          git add output/ memory/businesses_seen.json
+          git diff --staged --quiet || git commit -m "scout: leads $(date +%Y-%m-%d)"
+          git push
