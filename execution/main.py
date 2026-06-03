@@ -248,7 +248,16 @@ def main():
             for b in leads
         ],
     }
-    (output_dir / "latest.json").write_text(json.dumps(injection, ensure_ascii=False, indent=2))
+    json_content = json.dumps(injection, ensure_ascii=False, indent=2)
+    (output_dir / "latest.json").write_text(json_content)
+
+    # Copia in percorso Windows locale (solo se esiste il drive C:)
+    import sys
+    if sys.platform == "win32":
+        win_dir = Path(r"C:\Users\romeo\agente claude\logs\injections\cerca_attivita_senza_sito")
+        win_dir.mkdir(parents=True, exist_ok=True)
+        (win_dir / "latest.json").write_text(json_content)
+        print(f"JSON copiato in: {win_dir / 'latest.json'}")
 
     # Aggiorna seen solo con i lead effettivamente selezionati
     seen.update(new_ids)
