@@ -1,66 +1,42 @@
 {
-  "generated_at": "2026-06-09T16:49",
-  "run_label": "09/06/2026",
+  "generated_at": "2026-06-10T18:10",
+  "run_label": "10/06/2026",
   "leads": [
     {
-      "name": "Carroattrezzi VARESE e TICINO, TRASPORTI E SOCCORSO STRADALE - Elite Motor Garage -",
-      "sector": "Officina auto",
-      "city": "21100 Varese VA",
-      "address": "P.za Monte Grappa, 21100 Varese VA, Italy",
-      "phone": "375 734 3400",
-      "email": null,
-      "employees": null,
-      "description": "Officina auto a 21100 Varese VA. Rating: 5 (24 recensioni).",
-      "subject": "Nuovi clienti online per Carroattrezzi VARESE e TICINO, TRASPORTI E SOCCORSO STRADALE - Elite Motor Garage - – Sito web professionale",
-      "body": "Buongiorno,\n\nHo notato che Carroattrezzi VARESE e TICINO, TRASPORTI E SOCCORSO STRADALE - Elite Motor Garage - a 21100 Varese VA non ha ancora un sito web. Al giorno d'oggi la maggior parte dei clienti cerca online prima di scegliere un officina auto.\n\nPosso crearvi un sito professionale, veloce e ottimizzato per Google in pochi giorni.\n\nSarebbe possibile sentirci per un preventivo gratuito?\n\nCordiali saluti"
-    },
-    {
-      "name": "Garage Auto Giò",
-      "sector": "Officina auto",
-      "city": "6594 Contone",
-      "address": "Via Cantonale 15, 6594 Contone, Switzerland",
-      "phone": "091 840 11 59",
-      "email": null,
-      "employees": null,
-      "description": "Officina auto a 6594 Contone. Rating: 4.5 (28 recensioni).",
-      "subject": "Miglioriamo la presenza online di Garage Auto Giò",
-      "body": "Buongiorno,\n\nHo visitato il sito di Garage Auto Giò e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
-    },
-    {
-      "name": "Estetica Cris",
-      "sector": "Estetica",
+      "name": "Clinica Dentistica Comunale",
+      "sector": "Salute",
       "city": "6500 Bellinzona",
-      "address": "Vicolo Posta Vecchia 8, 6500 Bellinzona, Switzerland",
-      "phone": "091 825 05 88",
+      "address": "Via Lavizzari 14, 6500 Bellinzona, Switzerland",
+      "phone": "058 203 13 50",
       "email": null,
       "employees": null,
-      "description": "Estetica a 6500 Bellinzona. Rating: 4.8 (57 recensioni).",
-      "subject": "Miglioriamo la presenza online di Estetica Cris",
-      "body": "Buongiorno,\n\nHo visitato il sito di Estetica Cris e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+      "description": "Salute a 6500 Bellinzona. Rating: 4.3 (24 recensioni).",
+      "subject": "Miglioriamo la presenza online di Clinica Dentistica Comunale",
+      "body": "Buongiorno,\n\nHo visitato il sito di Clinica Dentistica Comunale e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
     },
     {
-      "name": "Hotel Campione",
-      "sector": "Hotel / Alloggio",
-      "city": "6816 Bissone",
-      "address": "Via Campione 62, 6816 Bissone, Switzerland",
-      "phone": "091 640 16 16",
+      "name": "Ristorante Firenze Lugano",
+      "sector": "Alimentare",
+      "city": "6976 Lugano",
+      "address": "Str. di Gandria 1, 6976 Lugano, Switzerland",
+      "phone": "091 224 62 33",
       "email": null,
       "employees": null,
-      "description": "Hotel / Alloggio a 6816 Bissone. Rating: 4.2 (416 recensioni).",
-      "subject": "Miglioriamo la presenza online di Hotel Campione",
-      "body": "Buongiorno,\n\nHo visitato il sito di Hotel Campione e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+      "description": "Alimentare a 6976 Lugano. Rating: 4.5 (80 recensioni).",
+      "subject": "Miglioriamo la presenza online di Ristorante Firenze Lugano",
+      "body": "Buongiorno,\n\nHo visitato il sito di Ristorante Firenze Lugano e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
     },
     {
-      "name": "Hotel Walter Au Lac",
-      "sector": "Hotel / Alloggio",
-      "city": "6900 Lugano",
-      "address": "Piazza Riziero Rezzonico 7, 6900 Lugano, Switzerland",
-      "phone": "091 922 74 25",
+      "name": "Studio Dentistico Dr. Lodetti Dr.ssa Fontana",
+      "sector": "Studio dentistico",
+      "city": "6826 Riva San Vitale",
+      "address": "Via Ceresio 1, 6826 Riva San Vitale, Switzerland",
+      "phone": "091 630 54 55",
       "email": null,
       "employees": null,
-      "description": "Hotel / Alloggio a 6900 Lugano. Rating: 4.3 (532 recensioni).",
-      "subject": "Miglioriamo la presenza online di Hotel Walter Au Lac",
-      "body": "Buongiorno,\n\nHo visitato il sito di Hotel Walter Au Lac e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+      "description": "Studio dentistico a 6826 Riva San Vitale. Rating: 5 (30 recensioni).",
+      "subject": "Miglioriamo la presenza online di Studio Dentistico Dr. Lodetti Dr.ssa Fontana",
+      "body": "Buongiorno,\n\nHo visitato il sito di Studio Dentistico Dr. Lodetti Dr.ssa Fontana e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
     }
   ]
 }
