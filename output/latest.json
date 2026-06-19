@@ -1,42 +1,102 @@
 {
-  "generated_at": "2026-06-18T18:12",
-  "run_label": "18/06/2026",
+  "generated_at": "2026-06-19T16:39",
+  "run_label": "19/06/2026",
   "leads": [
     {
-      "name": "Boutique Sesto Senso",
+      "name": "Restaurant-Pizzeria Lugano",
+      "sector": "Alimentare",
+      "city": "22017 Menaggio CO",
+      "address": "Via Como, 26, 22017 Menaggio CO, Italy",
+      "phone": "0344 31664",
+      "email": null,
+      "employees": null,
+      "description": "Alimentare a 22017 Menaggio CO. Rating: 4.5 (2488 recensioni).",
+      "subject": "Nuovi clienti online per Restaurant-Pizzeria Lugano – Sito web professionale",
+      "body": "Buongiorno,\n\nHo notato che Restaurant-Pizzeria Lugano a 22017 Menaggio CO non ha ancora un sito web. Al giorno d'oggi la maggior parte dei clienti cerca online prima di scegliere un alimentare.\n\nPosso crearvi un sito professionale, veloce e ottimizzato per Google in pochi giorni.\n\nSarebbe possibile sentirci per un preventivo gratuito?\n\nCordiali saluti"
+    },
+    {
+      "name": "Poretti Moda Uomo",
       "sector": "Negozio abbigliamento",
       "city": "6900 Lugano",
-      "address": "Via Pretorio 20, 6900 Lugano, Switzerland",
-      "phone": "078 722 80 20",
+      "address": "Via Gerolamo Vegezzi 2, 6900 Lugano, Switzerland",
+      "phone": "091 923 27 37",
       "email": null,
       "employees": null,
-      "description": "Negozio abbigliamento a 6900 Lugano. Rating: 4.9 (9 recensioni).",
-      "subject": "Nuovi clienti online per Boutique Sesto Senso – Sito web professionale",
-      "body": "Buongiorno,\n\nHo notato che Boutique Sesto Senso a 6900 Lugano non ha ancora un sito web. Al giorno d'oggi la maggior parte dei clienti cerca online prima di scegliere un negozio abbigliamento.\n\nPosso crearvi un sito professionale, veloce e ottimizzato per Google in pochi giorni.\n\nSarebbe possibile sentirci per un preventivo gratuito?\n\nCordiali saluti"
+      "description": "Negozio abbigliamento a 6900 Lugano. Rating: 4.8 (18 recensioni).",
+      "subject": "Miglioriamo la presenza online di Poretti Moda Uomo",
+      "body": "Buongiorno,\n\nHo visitato il sito di Poretti Moda Uomo e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
     },
     {
-      "name": "Art Visage - Estetica Medicale Lugano Centro",
-      "sector": "Estetica",
+      "name": "Acqua e Farina",
+      "sector": "Alimentare",
       "city": "6900 Lugano",
-      "address": "Via Cattedrale 4, 6900 Lugano, Switzerland",
-      "phone": "079 138 80 90",
+      "address": "Via Canova 9, 6900 Lugano, Switzerland",
+      "phone": "079 926 81 04",
       "email": null,
       "employees": null,
-      "description": "Estetica a 6900 Lugano. Rating: 5 (21 recensioni).",
-      "subject": "Miglioriamo la presenza online di Art Visage - Estetica Medicale Lugano Centro",
-      "body": "Buongiorno,\n\nHo visitato il sito di Art Visage - Estetica Medicale Lugano Centro e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+      "description": "Alimentare a 6900 Lugano. Rating: 4.5 (1976 recensioni).",
+      "subject": "Miglioriamo la presenza online di Acqua e Farina",
+      "body": "Buongiorno,\n\nHo visitato il sito di Acqua e Farina e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
     },
     {
-      "name": "Carrozzeria Automek S.A.",
-      "sector": "Officina auto",
-      "city": "6805 Mezzovico",
-      "address": "Mezzovico, Via Cantonale 26, 6805 Mezzovico, Switzerland",
-      "phone": "091 935 50 00",
+      "name": "La Fermata",
+      "sector": "Alimentare",
+      "city": "6900 Lugano",
+      "address": "Viale Carlo Cattaneo 21, 6900 Lugano, Switzerland",
+      "phone": "091 225 79 77",
       "email": null,
       "employees": null,
-      "description": "Officina auto a 6805 Mezzovico. Rating: 4.1 (84 recensioni).",
-      "subject": "Miglioriamo la presenza online di Carrozzeria Automek S.A.",
-      "body": "Buongiorno,\n\nHo visitato il sito di Carrozzeria Automek S.A. e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+      "description": "Alimentare a 6900 Lugano. Rating: 4.4 (1252 recensioni).",
+      "subject": "Miglioriamo la presenza online di La Fermata",
+      "body": "Buongiorno,\n\nHo visitato il sito di La Fermata e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "Ciani Lugano",
+      "sector": "Alimentare",
+      "city": "6900 Lugano",
+      "address": "Piazza Dell Indipendenza 4, 6900 Lugano, Switzerland",
+      "phone": "091 922 66 55",
+      "email": null,
+      "employees": null,
+      "description": "Alimentare a 6900 Lugano. Rating: 4.3 (786 recensioni).",
+      "subject": "Miglioriamo la presenza online di Ciani Lugano",
+      "body": "Buongiorno,\n\nHo visitato il sito di Ciani Lugano e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "Porto Bello! Ristorantino alla Foce di Lugano!",
+      "sector": "Alimentare",
+      "city": "6900 Lugano",
+      "address": "Circolo Velico Lugano, Via Foce 11, 6900 Lugano, Switzerland",
+      "phone": "091 972 88 88",
+      "email": null,
+      "employees": null,
+      "description": "Alimentare a 6900 Lugano. Rating: 4.4 (358 recensioni).",
+      "subject": "Miglioriamo la presenza online di Porto Bello! Ristorantino alla Foce di Lugano!",
+      "body": "Buongiorno,\n\nHo visitato il sito di Porto Bello! Ristorantino alla Foce di Lugano! e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "L'Archetto",
+      "sector": "Alimentare",
+      "city": "6600 Locarno",
+      "address": "Via Marcacci 11, 6600 Locarno, Switzerland",
+      "phone": "076 534 04 82",
+      "email": null,
+      "employees": null,
+      "description": "Alimentare a 6600 Locarno. Rating: 4.8 (333 recensioni).",
+      "subject": "Miglioriamo la presenza online di L'Archetto",
+      "body": "Buongiorno,\n\nHo visitato il sito di L'Archetto e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "Hotel Federale Lugano",
+      "sector": "Alimentare",
+      "city": "6900 Lugano",
+      "address": "Via Paolo Regazzoni 8, 6900 Lugano, Switzerland",
+      "phone": "091 910 08 08",
+      "email": null,
+      "employees": null,
+      "description": "Alimentare a 6900 Lugano. Rating: 4.6 (812 recensioni).",
+      "subject": "Miglioriamo la presenza online di Hotel Federale Lugano",
+      "body": "Buongiorno,\n\nHo visitato il sito di Hotel Federale Lugano e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
     }
   ]
 }
