@@ -1,5 +1,30 @@
 {
-  "generated_at": "2026-06-20T12:26",
-  "run_label": "20/06/2026",
-  "leads": []
+  "generated_at": "2026-06-21T13:26",
+  "run_label": "21/06/2026",
+  "leads": [
+    {
+      "name": "Trattoria del Lago di Manuela Buetti",
+      "sector": "Alimentare",
+      "city": "6600 Muralto",
+      "address": "Viale Verbano 35, 6600 Muralto, Switzerland",
+      "phone": "091 743 51 98",
+      "email": null,
+      "employees": null,
+      "description": "Alimentare a 6600 Muralto. Rating: 4.6 (473 recensioni).",
+      "subject": "Miglioriamo la presenza online di Trattoria del Lago di Manuela Buetti",
+      "body": "Buongiorno,\n\nHo visitato il sito di Trattoria del Lago di Manuela Buetti e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "Swiss Hotel Apartments - Lugano",
+      "sector": "Hotel / Alloggio",
+      "city": "6900 Lugano",
+      "address": "Corso Elvezia 35, 6900 Lugano, Switzerland",
+      "phone": "079 781 99 99",
+      "email": null,
+      "employees": null,
+      "description": "Hotel / Alloggio a 6900 Lugano. Rating: 4.5 (69 recensioni).",
+      "subject": "Miglioriamo la presenza online di Swiss Hotel Apartments - Lugano",
+      "body": "Buongiorno,\n\nHo visitato il sito di Swiss Hotel Apartments - Lugano e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    }
+  ]
 }
