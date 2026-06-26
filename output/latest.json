@@ -1,30 +1,42 @@
 {
-  "generated_at": "2026-06-25T10:13",
-  "run_label": "25/06/2026",
+  "generated_at": "2026-06-26T10:18",
+  "run_label": "26/06/2026",
   "leads": [
     {
-      "name": "Osteria all'undici",
+      "name": "Ristorante Locarno",
       "sector": "Alimentare",
-      "city": "6500 Bellinzona",
-      "address": "Via Lugano 11, 6500 Bellinzona, Switzerland",
-      "phone": "058 822 12 14",
+      "city": "28857 Santa Maria Maggiore VB",
+      "address": "Piazza Risorgimento, 9, 28857 Santa Maria Maggiore VB, Italy",
+      "phone": "0324 95088",
       "email": null,
       "employees": null,
-      "description": "Alimentare a 6500 Bellinzona. Rating: 4.6 (71 recensioni).",
-      "subject": "Miglioriamo la presenza online di Osteria all'undici",
-      "body": "Buongiorno,\n\nHo visitato il sito di Osteria all'undici e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+      "description": "Alimentare a 28857 Santa Maria Maggiore VB. Rating: 3.8 (755 recensioni).",
+      "subject": "Miglioriamo la presenza online di Ristorante Locarno",
+      "body": "Buongiorno,\n\nHo visitato il sito di Ristorante Locarno e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
     },
     {
-      "name": "Hotel Lugano",
-      "sector": "Hotel / Alloggio",
-      "city": "47838 Riccione RN",
-      "address": "Viale Trento e Trieste, 75, 47838 Riccione RN, Italy",
-      "phone": "0541 606611",
+      "name": "Osteria Canetti - Piazza Grande Nuova Gestione",
+      "sector": "Alimentare",
+      "city": "6600 Locarno",
+      "address": "Piazza Grande 13, 6600 Locarno, Switzerland",
+      "phone": "091 210 13 94",
       "email": null,
       "employees": null,
-      "description": "Hotel / Alloggio a 47838 Riccione RN. Rating: 4.4 (68 recensioni).",
-      "subject": "Miglioriamo la presenza online di Hotel Lugano",
-      "body": "Buongiorno,\n\nHo visitato il sito di Hotel Lugano e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+      "description": "Alimentare a 6600 Locarno. Rating: 4.2 (173 recensioni).",
+      "subject": "Miglioriamo la presenza online di Osteria Canetti - Piazza Grande Nuova Gestione",
+      "body": "Buongiorno,\n\nHo visitato il sito di Osteria Canetti - Piazza Grande Nuova Gestione e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "Cantina 1896",
+      "sector": "Alimentare",
+      "city": "6600 Locarno",
+      "address": "Piazza Grande 26, 6600 Locarno, Switzerland",
+      "phone": "091 751 48 15",
+      "email": null,
+      "employees": null,
+      "description": "Alimentare a 6600 Locarno. Rating: 4.4 (98 recensioni).",
+      "subject": "Miglioriamo la presenza online di Cantina 1896",
+      "body": "Buongiorno,\n\nHo visitato il sito di Cantina 1896 e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
     }
   ]
 }
