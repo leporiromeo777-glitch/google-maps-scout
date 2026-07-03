@@ -1,18 +1,30 @@
 {
-  "generated_at": "2026-07-02T09:56",
-  "run_label": "02/07/2026",
+  "generated_at": "2026-07-03T09:52",
+  "run_label": "03/07/2026",
   "leads": [
     {
-      "name": "Novotel Lugano Paradiso",
-      "sector": "Hotel / Alloggio",
-      "city": "6900 Paradiso",
-      "address": "Viale S. Salvatore 11, 6900 Paradiso, Switzerland",
-      "phone": "091 985 09 09",
+      "name": "Robbiani Automobili SA",
+      "sector": "Negozio",
+      "city": "Via Lugano 7",
+      "address": "Via Lugano 7, 6982 Agno, Switzerland",
+      "phone": "091 612 48 00",
       "email": null,
       "employees": null,
-      "description": "Hotel / Alloggio a 6900 Paradiso. Rating: 4.3 (1139 recensioni).",
-      "subject": "Miglioriamo la presenza online di Novotel Lugano Paradiso",
-      "body": "Buongiorno,\n\nHo visitato il sito di Novotel Lugano Paradiso e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+      "description": "Negozio a Via Lugano 7. Rating: 4.4 (158 recensioni).",
+      "subject": "Miglioriamo la presenza online di Robbiani Automobili SA",
+      "body": "Buongiorno,\n\nHo visitato il sito di Robbiani Automobili SA e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "Hotel De La Paix Lugano",
+      "sector": "Alimentare",
+      "city": "6900 Lugano",
+      "address": "Via Giuseppe Cattori 18, 6900 Lugano, Switzerland",
+      "phone": "091 960 60 60",
+      "email": null,
+      "employees": null,
+      "description": "Alimentare a 6900 Lugano. Rating: 4.4 (1427 recensioni).",
+      "subject": "Miglioriamo la presenza online di Hotel De La Paix Lugano",
+      "body": "Buongiorno,\n\nHo visitato il sito di Hotel De La Paix Lugano e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
     }
   ]
 }
