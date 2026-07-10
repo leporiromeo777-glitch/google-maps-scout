@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Prenota — Swiss NCC</title>
+<meta name="description" content="Prenota il tuo transfer privato Swiss NCC in pochi passi: tratta, veicolo e contatti. Ricevi un preventivo fisso su WhatsApp o email.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+<div class="wrap nav">
+<a href="index.html" class="logo" aria-label="Swiss NCC"><img src="logo.webp" alt="Swiss NCC"><b>Swiss NCC</b></a>
+<ul class="menu" id="menu">
+<li><a href="index.html">Home</a></li>
+<li><a href="servizi.html">Servizi</a></li>
+<li><a href="index.html#flotta">Flotta</a></li>
+<li><a href="chi-siamo.html">Chi siamo</a></li>
+<li><a href="team.html">Team</a></li>
+<li><a href="contatti.html">Contatti</a></li>
+</ul>
+<div class="nav-right">
+<a href="prenota.html" class="btn btn-primary">Prenota</a>
+<button class="burger" id="burger" aria-label="Apri menu"><span></span><span></span><span></span></button>
+</div>
+</div>
+</header>
+
+<div class="phead">
+<div class="wrap">
+<span class="eyebrow">Prenotazione online</span>
+<h1>Prenota il tuo <span>transfer</span></h1>
+<p>Quattro passi semplici e ricevi il tuo preventivo fisso. Nessuna registrazione richiesta.</p>
+</div>
+</div>
+
+<section style="padding-top:44px">
+<div class="wrap">
+
+<div class="wiz-wrap" id="wiz-wrap">
+<!-- MAIN -->
+<div class="wiz-main" id="wiz-main">
+<div class="wiz-prog">
+<div class="bar"><i id="wiz-bar"></i></div>
+<span class="lbl" id="wiz-lbl">Passo 1 di 4</span>
+</div>
+
+<!-- STEP 1 -->
+<div class="wiz-step act" data-step="1">
+<h2>Dettagli del viaggio</h2>
+<div class="seg wiz-seg" style="margin-bottom:22px">
+<button type="button" class="sel" data-type="transfer">→ Transfer</button>
+<button type="button" data-type="ore">⏱ A ore</button>
+</div>
+<div class="wfields">
+<div class="fld full"><label>Partenza</label><input type="text" id="f-from" placeholder="Indirizzo o località di partenza"></div>
+<div class="fld full only-transfer"><label>Destinazione</label><input type="text" id="f-to" placeholder="Indirizzo o località di arrivo"></div>
+<div class="fld full only-transfer"><label class="rt-check"><input type="checkbox" id="f-rt"><span>Andata e ritorno</span></label></div>
+<div class="fld full only-ore" style="display:none"><label>Numero di ore</label><input type="number" min="2" max="24" id="f-hours" value="2"></div>
+<div class="fld"><label>Data</label><input type="date" id="f-date"></div>
+<div class="fld"><label>Ora</label><input type="time" id="f-time"></div>
+<div class="fld"><label>Passeggeri</label><input type="number" min="1" max="16" id="f-pax" value="2"></div>
+</div>
+</div>
+
+<!-- STEP 2 -->
+<div class="wiz-step" data-step="2">
+<h2>Scegli il veicolo</h2>
+<div class="pick">
+<button type="button" class="pick-card" data-veh="Mercedes E-Class · Business">
+<div class="pk-img"><img src="car-e-class.webp" alt="Mercedes E-Class"></div>
+<span class="pk-cat">Business</span><span class="pk-t">Mercedes E-Class</span>
+<span class="pk-meta"><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="8" r="3.5"/><path d="M5 20a7 7 0 0114 0"/></svg>2</span><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="5" y="7" width="14" height="13" rx="2"/><path d="M9 7V5a2 2 0 012-2h2a2 2 0 012 2v2"/></svg>2</span></span>
+</button>
+<button type="button" class="pick-card" data-veh="Mercedes S-Class · Business">
+<div class="pk-img"><img src="car-s-class.webp" alt="Mercedes S-Class"></div>
+<span class="pk-cat">Business</span><span class="pk-t">Mercedes S-Class</span>
+<span class="pk-meta"><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="8" r="3.5"/><path d="M5 20a7 7 0 0114 0"/></svg>2</span><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="5" y="7" width="14" height="13" rx="2"/><path d="M9 7V5a2 2 0 012-2h2a2 2 0 012 2v2"/></svg>2</span></span>
+</button>
+<button type="button" class="pick-card" data-veh="Mercedes V-Class · Business Van">
+<div class="pk-img"><img src="car-v-class.webp" alt="Mercedes V-Class"></div>
+<span class="pk-cat">Business Van</span><span class="pk-t">Mercedes V-Class</span>
+<span class="pk-meta"><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="8" r="3.5"/><path d="M5 20a7 7 0 0114 0"/></svg>7</span><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="5" y="7" width="14" height="13" rx="2"/><path d="M9 7V5a2 2 0 012-2h2a2 2 0 012 2v2"/></svg>7</span></span>
+</button>
+<button type="button" class="pick-card" data-veh="BMW Serie 5 · Business">
+<div class="pk-img"><img src="car-bmw5.webp" alt="BMW Serie 5"></div>
+<span class="pk-cat">Business</span><span class="pk-t">BMW Serie 5</span>
+<span class="pk-meta"><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="8" r="3.5"/><path d="M5 20a7 7 0 0114 0"/></svg>2</span><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="5" y="7" width="14" height="13" rx="2"/><path d="M9 7V5a2 2 0 012-2h2a2 2 0 012 2v2"/></svg>2</span></span>
+</button>
+<button type="button" class="pick-card" data-veh="BMW Serie 7 · First Class">
+<div class="pk-img"><img src="car-bmw7.webp" alt="BMW Serie 7"></div>
+<span class="pk-cat">First Class</span><span class="pk-t">BMW Serie 7</span>
+<span class="pk-meta"><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="8" r="3.5"/><path d="M5 20a7 7 0 0114 0"/></svg>2</span><span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="5" y="7" width="14" height="13" rx="2"/><path d="M9 7V5a2 2 0 012-2h2a2 2 0 012 2v2"/></svg>2</span></span>
+</button>
+<button type="button" class="pick-card" data-veh="Da definire con Swiss NCC">
+<div class="pk-img"><svg viewBox="0 0 24 24" width="40" height="40" fill="none" stroke="var(--gold)" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 8v8M8 12h8"/></svg></div>
+<span class="pk-cat">Su misura</span><span class="pk-t">Non sei sicuro?</span>
+<span class="pk-meta">Ti consigliamo il veicolo giusto</span>
+</button>
+</div>
+</div>
+
+<!-- STEP 3 -->
+<div class="wiz-step" data-step="3">
+<h2>Riepilogo e contatti</h2>
+<div class="wfields">
+<div class="fld full"><label>Nome e cognome</label><input type="text" id="f-name" placeholder="Il tuo nome"></div>
+<div class="fld"><label>Telefono</label><input type="tel" id="f-phone" placeholder="+41 ..."></div>
+<div class="fld"><label>Email</label><input type="email" id="f-email" placeholder="nome@email.com"></div>
+<div class="fld full"><label>Note (opzionale)</label><textarea id="f-note" rows="3" placeholder="Numero di bagagli, seggiolini, soste, attrezzatura sportiva..."></textarea></div>
+</div>
+</div>
+
+<!-- STEP 4 -->
+<div class="wiz-step" data-step="4">
+<h2>Come preferisci pagare</h2>
+<div class="pay-list">
+<button type="button" class="pay-card" data-pay="Carta o PayPal">
+<span class="pay-ic"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="2" y="5" width="20" height="14" rx="2"/><path d="M2 10h20"/></svg></span>
+<span><span class="pay-t">Carta o PayPal</span><span class="pay-d">Pagamento sicuro dopo la conferma del preventivo.</span></span>
+<span class="pay-radio"></span>
+</button>
+<button type="button" class="pay-card" data-pay="Contanti all'autista">
+<span class="pay-ic"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="2" y="6" width="20" height="12" rx="2"/><circle cx="12" cy="12" r="2.6"/></svg></span>
+<span><span class="pay-t">Contanti</span><span class="pay-d">Paghi direttamente all'autista durante la corsa.</span></span>
+<span class="pay-radio"></span>
+</button>
+<button type="button" class="pay-card" data-pay="Bonifico bancario">
+<span class="pay-ic"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M7 2h8l4 4v16H7z"/><path d="M15 2v4h4"/><path d="M10 11h6M10 15h6"/></svg></span>
+<span><span class="pay-t">Bonifico</span><span class="pay-d">Ricevi la fattura via email e paghi comodamente con bonifico.</span></span>
+<span class="pay-radio"></span>
+</button>
+</div>
+</div>
+
+<div class="wiz-nav">
+<button type="button" class="btn btn-ghost" id="wiz-prev" style="display:none">Indietro</button>
+<button type="button" class="btn btn-primary grow" id="wiz-next">Avanti</button>
+<button type="button" class="btn btn-gold grow" id="wiz-submit" style="display:none">Invia richiesta</button>
+</div>
+</div>
+
+<!-- SIDE -->
+<aside class="wiz-side">
+<div class="side-card">
+<h4>Il tuo viaggio</h4>
+<div class="side-row"><span>Tipo</span><b id="s-type">Transfer</b></div>
+<div class="side-row"><span>Tratta</span><b id="s-route">—</b></div>
+<div class="side-row"><span>Data e ora</span><b id="s-when">—</b></div>
+<div class="side-row"><span>Passeggeri</span><b id="s-pax">—</b></div>
+<div class="side-row" style="border-bottom:0"><span>Veicolo</span><b id="s-veh">—</b></div>
+<div class="side-quote">
+<div class="q">Preventivo su richiesta</div>
+<div class="qs">Prezzo fisso, senza costi nascosti</div>
+</div>
+<div class="side-safe"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 3l7 3v5c0 4.4-3 8.4-7 10-4-1.6-7-5.6-7-10V6z"/><path d="M9 12l2 2 4-4"/></svg><span>Richiesta sicura · senza impegno</span></div>
+</div>
+</aside>
+</div>
+
+<!-- SUCCESS -->
+<div class="done" id="done">
+<div class="chk"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg></div>
+<h2>Richiesta inviata!</h2>
+<p>Abbiamo ricevuto il riepilogo della tua prenotazione: ti ricontattiamo il prima possibile con il preventivo fisso. Grazie per aver scelto Swiss NCC.</p>
+<a href="index.html" class="btn btn-primary">Torna alla home</a>
+</div>
+
+</div>
+</section>
+
+<footer>
+<div class="wrap foot">
+<div>
+<a href="index.html" class="logo" aria-label="Swiss NCC"><img src="logo.webp" alt="Swiss NCC"><b>Swiss NCC</b></a>
+<p class="f-about">Trasporto passeggeri professionale in Svizzera e in Europa. Oltre dieci anni di esperienza al servizio del tuo viaggio.</p>
+</div>
+<div>
+<h4>Pagine</h4>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="servizi.html">Servizi</a></li>
+<li><a href="index.html#flotta">Flotta</a></li>
+<li><a href="chi-siamo.html">Chi siamo</a></li>
+<li><a href="team.html">Team</a></li>
+<li><a href="contatti.html">Contatti</a></li>
+</ul>
+</div>
+<div>
+<h4>Contatti</h4>
+<div class="fct"><b>Tel.</b><a href="tel:+41767565725">+41 76 75 65 725</a></div>
+<div class="fct"><b>Email</b><a href="mailto:info@swissncc.com">info@swissncc.com</a></div>
+<div class="fct"><b>Sede</b><span>Spreitenbach, Svizzera</span></div>
+</div>
+</div>
+<div class="copy">© 2026 Swiss NCC · VAT CHE-388.957.335 · Tutti i diritti riservati</div>
+</footer>
+
+<a class="wa" href="https://wa.me/41767565725" target="_blank" rel="noopener" aria-label="Scrivici su WhatsApp"><svg viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"/></svg></a>
+
+<script src="script.js"></script>
+</body>
+</html>
