@@ -229,8 +229,8 @@ section{padding:96px 0}
   padding:18px 20px;transition:.2s;
 }
 .route:hover{border-color:var(--gold-2);box-shadow:var(--shadow);transform:translateX(3px)}
-.route .r-from{font-size:.78rem;color:var(--muted);font-weight:500}
-.route .r-to{font-size:1.1rem;font-weight:700;color:var(--ink);margin-top:2px}
+.route .r-from{display:block;font-size:.78rem;color:var(--muted);font-weight:500}
+.route .r-to{display:block;font-size:1.1rem;font-weight:700;color:var(--ink);margin-top:2px}
 .route .r-go{color:var(--gold);flex-shrink:0}
 .route .r-go svg{width:20px;height:20px}
 
@@ -322,9 +322,9 @@ section{padding:96px 0}
 a.crow:hover{border-color:var(--gold-2);box-shadow:var(--shadow)}
 .crow .c-ic{width:52px;height:52px;border-radius:14px;background:var(--gold-soft);color:var(--gold);display:flex;align-items:center;justify-content:center;flex-shrink:0}
 .crow .c-ic svg{width:24px;height:24px}
-.crow .c-lab{font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
-.crow .c-val{font-size:1.3rem;font-weight:700;color:var(--ink);margin-top:2px}
-.crow .c-p{font-size:.9rem;color:var(--body);margin-top:4px}
+.crow .c-lab{display:block;font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.crow .c-val{display:block;font-size:1.3rem;font-weight:700;color:var(--ink);margin-top:2px}
+.crow .c-p{display:block;font-size:.9rem;color:var(--body);margin-top:4px}
 .crow .c-go{color:var(--muted)}
 
 /* ---------- CTA band -------------------------------------------------- */
@@ -399,8 +399,8 @@ footer{background:#0b0d11;border-top:1px solid rgba(255,255,255,.08);padding:64p
 .pay-card.sel{border-color:var(--gold-2);background:var(--gold-soft)}
 .pay-card .pay-ic{width:44px;height:44px;border-radius:12px;background:var(--soft);color:var(--gold);display:flex;align-items:center;justify-content:center;flex-shrink:0}
 .pay-card.sel .pay-ic{background:#fff}
-.pay-card .pay-t{font-weight:700}
-.pay-card .pay-d{font-size:.88rem;color:var(--body)}
+.pay-card .pay-t{display:block;font-weight:700}
+.pay-card .pay-d{display:block;font-size:.88rem;color:var(--body)}
 .pay-card .pay-radio{margin-left:auto;width:22px;height:22px;border:2px solid var(--line);border-radius:50%;flex-shrink:0;position:relative;transition:.18s}
 .pay-card.sel .pay-radio{border-color:var(--gold-2)}
 .pay-card.sel .pay-radio::after{content:"";position:absolute;inset:4px;border-radius:50%;background:var(--gold-2)}
