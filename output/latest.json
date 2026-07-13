@@ -1,5 +1,18 @@
 {
-  "generated_at": "2026-07-12T08:59",
-  "run_label": "12/07/2026",
-  "leads": []
+  "generated_at": "2026-07-13T10:18",
+  "run_label": "13/07/2026",
+  "leads": [
+    {
+      "name": "Garage Boffelli SA",
+      "sector": "Officina auto",
+      "city": "6964 Davesco-Soragno",
+      "address": "Str. Ponte di Valle 9A, 6964 Davesco-Soragno, Switzerland",
+      "phone": "091 971 45 03",
+      "email": null,
+      "employees": null,
+      "description": "Officina auto a 6964 Davesco-Soragno. Rating: 4.7 (40 recensioni).",
+      "subject": "Miglioriamo la presenza online di Garage Boffelli SA",
+      "body": "Buongiorno,\n\nHo visitato il sito di Garage Boffelli SA e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    }
+  ]
 }
