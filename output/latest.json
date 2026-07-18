@@ -1,18 +1,42 @@
 {
-  "generated_at": "2026-07-17T09:04",
-  "run_label": "17/07/2026",
+  "generated_at": "2026-07-18T08:45",
+  "run_label": "18/07/2026",
   "leads": [
     {
-      "name": "Ristorante Piccolo Vigneto",
-      "sector": "Alimentare",
-      "city": "6962 Viganello",
-      "address": "Via al Roccolo 19, 6962 Viganello, Switzerland",
-      "phone": "091 972 39 85",
+      "name": "Estetica Fashion",
+      "sector": "Estetica",
+      "city": "6900 Lugano",
+      "address": "Corso Elvezia 10, 6900 Lugano, Switzerland",
+      "phone": "078 622 40 04",
       "email": null,
       "employees": null,
-      "description": "Alimentare a 6962 Viganello. Rating: 4.6 (440 recensioni).",
-      "subject": "Miglioriamo la presenza online di Ristorante Piccolo Vigneto",
-      "body": "Buongiorno,\n\nHo visitato il sito di Ristorante Piccolo Vigneto e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+      "description": "Estetica a 6900 Lugano. Rating: 5 (22 recensioni).",
+      "subject": "Miglioriamo la presenza online di Estetica Fashion",
+      "body": "Buongiorno,\n\nHo visitato il sito di Estetica Fashion e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "Studio medico dentistico Dr. Ibrahim Odun",
+      "sector": "Studio dentistico",
+      "city": "6854 S. Pietro",
+      "address": "Via Ligornetto 23, 6854 S. Pietro, Switzerland",
+      "phone": "091 647 08 08",
+      "email": null,
+      "employees": null,
+      "description": "Studio dentistico a 6854 S. Pietro. Rating: 4.9 (26 recensioni).",
+      "subject": "Miglioriamo la presenza online di Studio medico dentistico Dr. Ibrahim Odun",
+      "body": "Buongiorno,\n\nHo visitato il sito di Studio medico dentistico Dr. Ibrahim Odun e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "Ristorante Pizzeria Audia Bellinzona",
+      "sector": "Alimentare",
+      "city": "6500 Bellinzona",
+      "address": "Viale Stazione 29A, 6500 Bellinzona, Switzerland",
+      "phone": "076 272 02 59",
+      "email": null,
+      "employees": null,
+      "description": "Alimentare a 6500 Bellinzona. Rating: 4.6 (275 recensioni).",
+      "subject": "Miglioriamo la presenza online di Ristorante Pizzeria Audia Bellinzona",
+      "body": "Buongiorno,\n\nHo visitato il sito di Ristorante Pizzeria Audia Bellinzona e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
     }
   ]
 }
