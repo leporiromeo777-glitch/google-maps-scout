@@ -1,5 +1,30 @@
 {
-  "generated_at": "2026-07-29T09:34",
-  "run_label": "29/07/2026",
-  "leads": []
+  "generated_at": "2026-07-30T09:26",
+  "run_label": "30/07/2026",
+  "leads": [
+    {
+      "name": "Studio dentistico Dot.Tor Sagl",
+      "sector": "Studio dentistico",
+      "city": "6500 Bellinzona",
+      "address": "Viale Portone 3, 6500 Bellinzona, Switzerland",
+      "phone": "091 826 21 26",
+      "email": null,
+      "employees": null,
+      "description": "Studio dentistico a 6500 Bellinzona. Rating: 5 (4 recensioni).",
+      "subject": "Miglioriamo la presenza online di Studio dentistico Dot.Tor Sagl",
+      "body": "Buongiorno,\n\nHo visitato il sito di Studio dentistico Dot.Tor Sagl e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "CUTE LUGANO",
+      "sector": "Parrucchiere",
+      "city": "6900 Lugano",
+      "address": "Via Ludovico Ariosto 6, 6900 Lugano, Switzerland",
+      "phone": "079 320 38 60",
+      "email": null,
+      "employees": null,
+      "description": "Parrucchiere a 6900 Lugano. Rating: 4.8 (60 recensioni).",
+      "subject": "Miglioriamo la presenza online di CUTE LUGANO",
+      "body": "Buongiorno,\n\nHo visitato il sito di CUTE LUGANO e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    }
+  ]
 }
