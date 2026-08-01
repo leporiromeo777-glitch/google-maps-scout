@@ -1,5 +1,30 @@
 {
-  "generated_at": "2026-07-31T09:38",
-  "run_label": "31/07/2026",
-  "leads": []
+  "generated_at": "2026-08-01T09:01",
+  "run_label": "01/08/2026",
+  "leads": [
+    {
+      "name": "Grotto Sbardella",
+      "sector": "Alimentare",
+      "city": "6512 Giubiasco",
+      "address": "Contrada Palasio 18, 6512 Giubiasco, Switzerland",
+      "phone": "091 857 53 20",
+      "email": null,
+      "employees": null,
+      "description": "Alimentare a 6512 Giubiasco. Rating: 4.4 (367 recensioni).",
+      "subject": "Miglioriamo la presenza online di Grotto Sbardella",
+      "body": "Buongiorno,\n\nHo visitato il sito di Grotto Sbardella e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "Hotel Colorado Lugano",
+      "sector": "Alimentare",
+      "city": "6900 Lugano",
+      "address": "Via Clemente Maraini 19, Via Antonio Adamini 20, 6900 Lugano, Switzerland",
+      "phone": "091 994 16 31",
+      "email": null,
+      "employees": null,
+      "description": "Alimentare a 6900 Lugano. Rating: 4.1 (336 recensioni).",
+      "subject": "Miglioriamo la presenza online di Hotel Colorado Lugano",
+      "body": "Buongiorno,\n\nHo visitato il sito di Hotel Colorado Lugano e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    }
+  ]
 }
