@@ -1,5 +1,18 @@
 {
-  "generated_at": "2026-08-04T09:35",
-  "run_label": "04/08/2026",
-  "leads": []
+  "generated_at": "2026-08-05T09:31",
+  "run_label": "05/08/2026",
+  "leads": [
+    {
+      "name": "Ristorante La Luce",
+      "sector": "Alimentare",
+      "city": "6900 Lugano",
+      "address": "Via Montalbano 5, 6900 Lugano, Switzerland",
+      "phone": "091 985 88 12",
+      "email": null,
+      "employees": null,
+      "description": "Alimentare a 6900 Lugano. Rating: 5 (2 recensioni).",
+      "subject": "Miglioriamo la presenza online di Ristorante La Luce",
+      "body": "Buongiorno,\n\nHo visitato il sito di Ristorante La Luce e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    }
+  ]
 }
