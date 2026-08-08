@@ -1,5 +1,30 @@
 {
-  "generated_at": "2026-08-07T08:09",
-  "run_label": "07/08/2026",
-  "leads": []
+  "generated_at": "2026-08-08T07:42",
+  "run_label": "08/08/2026",
+  "leads": [
+    {
+      "name": "Centro Estetico di Isabella di Nanni",
+      "sector": "Establishment",
+      "city": "6962 Viganello",
+      "address": "Via la Santa 33, 6962 Viganello, Switzerland",
+      "phone": "076 399 38 16",
+      "email": null,
+      "employees": null,
+      "description": "Establishment a 6962 Viganello. Rating: 5 (17 recensioni).",
+      "subject": "Miglioriamo la presenza online di Centro Estetico di Isabella di Nanni",
+      "body": "Buongiorno,\n\nHo visitato il sito di Centro Estetico di Isabella di Nanni e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "H&M",
+      "sector": "Negozio abbigliamento",
+      "city": "6900 Lugano",
+      "address": "Piazza Alighieri Dante 1, 6900 Lugano, Switzerland",
+      "phone": "0800 665 590",
+      "email": null,
+      "employees": null,
+      "description": "Negozio abbigliamento a 6900 Lugano. Rating: 4 (238 recensioni).",
+      "subject": "Miglioriamo la presenza online di H&M",
+      "body": "Buongiorno,\n\nHo visitato il sito di H&M e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    }
+  ]
 }
