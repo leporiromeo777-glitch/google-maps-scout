@@ -1,5 +1,18 @@
 {
-  "generated_at": "2026-08-24T07:52",
-  "run_label": "24/08/2026",
-  "leads": []
+  "generated_at": "2026-08-25T07:38",
+  "run_label": "25/08/2026",
+  "leads": [
+    {
+      "name": "D-Beauty SA",
+      "sector": "Estetica",
+      "city": "6600 Locarno",
+      "address": "Via Luigi Lavizzari 14, 6600 Locarno, Switzerland",
+      "phone": "091 752 01 07",
+      "email": null,
+      "employees": null,
+      "description": "Estetica a 6600 Locarno. Rating: 4.7 (105 recensioni).",
+      "subject": "Miglioriamo la presenza online di D-Beauty SA",
+      "body": "Buongiorno,\n\nHo visitato il sito di D-Beauty SA e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    }
+  ]
 }
