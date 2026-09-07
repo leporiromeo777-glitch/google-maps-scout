@@ -1,5 +1,18 @@
 {
-  "generated_at": "2026-09-06T11:28",
-  "run_label": "06/09/2026",
-  "leads": []
+  "generated_at": "2026-09-07T13:12",
+  "run_label": "07/09/2026",
+  "leads": [
+    {
+      "name": "Il Ristorante San Lorenzo",
+      "sector": "Alimentare",
+      "city": "6900 Lugano",
+      "address": "Via Paolo Regazzoni 8, 6900 Lugano, Switzerland",
+      "phone": "091 910 08 08",
+      "email": null,
+      "employees": null,
+      "description": "Alimentare a 6900 Lugano. Rating: 4.8 (12 recensioni).",
+      "subject": "Miglioriamo la presenza online di Il Ristorante San Lorenzo",
+      "body": "Buongiorno,\n\nHo visitato il sito di Il Ristorante San Lorenzo e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    }
+  ]
 }
