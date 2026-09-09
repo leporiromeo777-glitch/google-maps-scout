@@ -1,5 +1,42 @@
 {
-  "generated_at": "2026-09-08T11:55",
-  "run_label": "08/09/2026",
-  "leads": []
+  "generated_at": "2026-09-09T12:05",
+  "run_label": "09/09/2026",
+  "leads": [
+    {
+      "name": "Ristorante La Tureta",
+      "sector": "Alimentare",
+      "city": "6512 Bellinzona",
+      "address": "Piazza Grande 43, 6512 Bellinzona, Switzerland",
+      "phone": "091 857 40 40",
+      "email": null,
+      "employees": null,
+      "description": "Alimentare a 6512 Bellinzona. Rating: 4.4 (18 recensioni).",
+      "subject": "Miglioriamo la presenza online di Ristorante La Tureta",
+      "body": "Buongiorno,\n\nHo visitato il sito di Ristorante La Tureta e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "Erresse Beauty & Spa",
+      "sector": "Salute",
+      "city": "6900 Lugano",
+      "address": "Via Serafino Balestra 7, 6900 Lugano, Switzerland",
+      "phone": "091 921 04 66",
+      "email": null,
+      "employees": null,
+      "description": "Salute a 6900 Lugano. Rating: 5 (24 recensioni).",
+      "subject": "Miglioriamo la presenza online di Erresse Beauty & Spa",
+      "body": "Buongiorno,\n\nHo visitato il sito di Erresse Beauty & Spa e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "SEVEN LUGANO The Lounge",
+      "sector": "Alimentare",
+      "city": "6901 Lugano",
+      "address": "Via Chiarina Stauffacher-Vedani 1, 6901 Lugano, Switzerland",
+      "phone": "091 290 77 71",
+      "email": null,
+      "employees": null,
+      "description": "Alimentare a 6901 Lugano. Rating: 4.2 (418 recensioni).",
+      "subject": "Miglioriamo la presenza online di SEVEN LUGANO The Lounge",
+      "body": "Buongiorno,\n\nHo visitato il sito di SEVEN LUGANO The Lounge e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    }
+  ]
 }
