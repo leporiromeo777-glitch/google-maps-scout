@@ -1,66 +1,42 @@
 {
-  "generated_at": "2026-09-29T13:38",
-  "run_label": "29/09/2026",
+  "generated_at": "2026-09-30T13:14",
+  "run_label": "30/09/2026",
   "leads": [
     {
-      "name": "Canvetto Luganese - Fondazione Diamante",
+      "name": "Locanda Marco",
       "sector": "Alimentare",
-      "city": "6900 Lugano",
-      "address": "Via Rinaldo Simen 14, 6900 Lugano, Switzerland",
-      "phone": "091 910 18 90",
+      "city": "6500 Bellinzona",
+      "address": "Via Nocca 20, 6500 Bellinzona, Switzerland",
+      "phone": "091 290 84 97",
       "email": null,
       "employees": null,
-      "description": "Alimentare a 6900 Lugano. Rating: 4.5 (348 recensioni).",
-      "subject": "Miglioriamo la presenza online di Canvetto Luganese - Fondazione Diamante",
-      "body": "Buongiorno,\n\nHo visitato il sito di Canvetto Luganese - Fondazione Diamante e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+      "description": "Alimentare a 6500 Bellinzona. Rating: 4.7 (145 recensioni).",
+      "subject": "Miglioriamo la presenza online di Locanda Marco",
+      "body": "Buongiorno,\n\nHo visitato il sito di Locanda Marco e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
     },
     {
-      "name": "Gandola Studio",
-      "sector": "Parrucchiere",
-      "city": "6900 Lugano",
-      "address": "Via Pietro Peri 18, 6900 Lugano, Switzerland",
-      "phone": "091 921 23 48",
+      "name": "Ristorante Pizzeria Portici",
+      "sector": "Alimentare",
+      "city": "6500 Bellinzona",
+      "address": "Vicolo Muggiasca 1A, 6500 Bellinzona, Switzerland",
+      "phone": "091 829 24 26",
       "email": null,
       "employees": null,
-      "description": "Parrucchiere a 6900 Lugano. Rating: 4.6 (92 recensioni).",
-      "subject": "Miglioriamo la presenza online di Gandola Studio",
-      "body": "Buongiorno,\n\nHo visitato il sito di Gandola Studio e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+      "description": "Alimentare a 6500 Bellinzona. Rating: 4.3 (174 recensioni).",
+      "subject": "Miglioriamo la presenza online di Ristorante Pizzeria Portici",
+      "body": "Buongiorno,\n\nHo visitato il sito di Ristorante Pizzeria Portici e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
     },
     {
-      "name": "Beautynance | Your Brightest Version",
-      "sector": "Estetica",
-      "city": "6900 Lugano",
-      "address": "Piazza Alighieri Dante 2, 6900 Lugano, Switzerland",
-      "phone": "091 225 30 96",
-      "email": null,
-      "employees": null,
-      "description": "Estetica a 6900 Lugano. Rating: 4.8 (94 recensioni).",
-      "subject": "Miglioriamo la presenza online di Beautynance | Your Brightest Version",
-      "body": "Buongiorno,\n\nHo visitato il sito di Beautynance | Your Brightest Version e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
-    },
-    {
-      "name": "Studio Dentistico Ferrari",
+      "name": "OdontoBi Studio Dentistico | Dentista a Novara e Varese",
       "sector": "Studio dentistico",
-      "city": "22020 Faloppio CO",
-      "address": "Via delle Industrie, snc, 22020 Faloppio CO, Italy",
-      "phone": "031 946349",
+      "city": "28053 Castelletto sopra Ticino NO",
+      "address": "Via Aronco, 5, 28053 Castelletto sopra Ticino NO, Italy",
+      "phone": "0331 971413",
       "email": null,
       "employees": null,
-      "description": "Studio dentistico a 22020 Faloppio CO. Rating: 5 (423 recensioni).",
-      "subject": "Miglioriamo la presenza online di Studio Dentistico Ferrari",
-      "body": "Buongiorno,\n\nHo visitato il sito di Studio Dentistico Ferrari e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
-    },
-    {
-      "name": "Studio Dentistico Dental Croce",
-      "sector": "Studio dentistico",
-      "city": "6512 Giubiasco",
-      "address": "Via Borghetto 1B, 6512 Giubiasco, Switzerland",
-      "phone": "091 857 11 44",
-      "email": null,
-      "employees": null,
-      "description": "Studio dentistico a 6512 Giubiasco. Rating: 4.8 (43 recensioni).",
-      "subject": "Miglioriamo la presenza online di Studio Dentistico Dental Croce",
-      "body": "Buongiorno,\n\nHo visitato il sito di Studio Dentistico Dental Croce e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+      "description": "Studio dentistico a 28053 Castelletto sopra Ticino NO. Rating: 4.8 (236 recensioni).",
+      "subject": "Miglioriamo la presenza online di OdontoBi Studio Dentistico | Dentista a Novara e Varese",
+      "body": "Buongiorno,\n\nHo visitato il sito di OdontoBi Studio Dentistico | Dentista a Novara e Varese e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
     }
   ]
 }
