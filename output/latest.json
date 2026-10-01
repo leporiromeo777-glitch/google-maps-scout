@@ -1,42 +1,30 @@
 {
-  "generated_at": "2026-09-30T13:14",
-  "run_label": "30/09/2026",
+  "generated_at": "2026-10-01T14:05",
+  "run_label": "01/10/2026",
   "leads": [
     {
-      "name": "Locanda Marco",
+      "name": "Carpe Diem Al Portico",
       "sector": "Alimentare",
-      "city": "6500 Bellinzona",
-      "address": "Via Nocca 20, 6500 Bellinzona, Switzerland",
-      "phone": "091 290 84 97",
+      "city": "6600 Locarno",
+      "address": "Piazza Grande 22, 6600 Locarno, Switzerland",
+      "phone": "091 751 23 07",
       "email": null,
       "employees": null,
-      "description": "Alimentare a 6500 Bellinzona. Rating: 4.7 (145 recensioni).",
-      "subject": "Miglioriamo la presenza online di Locanda Marco",
-      "body": "Buongiorno,\n\nHo visitato il sito di Locanda Marco e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+      "description": "Alimentare a 6600 Locarno. Rating: 4.5 (55 recensioni).",
+      "subject": "Miglioriamo la presenza online di Carpe Diem Al Portico",
+      "body": "Buongiorno,\n\nHo visitato il sito di Carpe Diem Al Portico e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
     },
     {
-      "name": "Ristorante Pizzeria Portici",
-      "sector": "Alimentare",
-      "city": "6500 Bellinzona",
-      "address": "Vicolo Muggiasca 1A, 6500 Bellinzona, Switzerland",
-      "phone": "091 829 24 26",
+      "name": "Ticino Service Srl",
+      "sector": "Officina auto",
+      "city": "20004 Arluno MI",
+      "address": "Via Castiglioni, 22, 20004 Arluno MI, Italy",
+      "phone": "02 9011 1083",
       "email": null,
       "employees": null,
-      "description": "Alimentare a 6500 Bellinzona. Rating: 4.3 (174 recensioni).",
-      "subject": "Miglioriamo la presenza online di Ristorante Pizzeria Portici",
-      "body": "Buongiorno,\n\nHo visitato il sito di Ristorante Pizzeria Portici e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
-    },
-    {
-      "name": "OdontoBi Studio Dentistico | Dentista a Novara e Varese",
-      "sector": "Studio dentistico",
-      "city": "28053 Castelletto sopra Ticino NO",
-      "address": "Via Aronco, 5, 28053 Castelletto sopra Ticino NO, Italy",
-      "phone": "0331 971413",
-      "email": null,
-      "employees": null,
-      "description": "Studio dentistico a 28053 Castelletto sopra Ticino NO. Rating: 4.8 (236 recensioni).",
-      "subject": "Miglioriamo la presenza online di OdontoBi Studio Dentistico | Dentista a Novara e Varese",
-      "body": "Buongiorno,\n\nHo visitato il sito di OdontoBi Studio Dentistico | Dentista a Novara e Varese e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+      "description": "Officina auto a 20004 Arluno MI. Rating: 4.7 (203 recensioni).",
+      "subject": "Miglioriamo la presenza online di Ticino Service Srl",
+      "body": "Buongiorno,\n\nHo visitato il sito di Ticino Service Srl e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
     }
   ]
 }
