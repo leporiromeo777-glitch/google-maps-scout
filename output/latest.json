@@ -1,5 +1,18 @@
 {
-  "generated_at": "2026-10-09T14:02",
-  "run_label": "09/10/2026",
-  "leads": []
+  "generated_at": "2026-10-10T13:11",
+  "run_label": "10/10/2026",
+  "leads": [
+    {
+      "name": "TICINO AUTO SA",
+      "sector": "Negozio",
+      "city": "6982 Agno",
+      "address": "Via Cassinelle 1, 6982 Agno, Switzerland",
+      "phone": null,
+      "email": null,
+      "employees": null,
+      "description": "Negozio a 6982 Agno. Rating: 5 (16 recensioni).",
+      "subject": "Miglioriamo la presenza online di TICINO AUTO SA",
+      "body": "Buongiorno,\n\nHo visitato il sito di TICINO AUTO SA e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    }
+  ]
 }
