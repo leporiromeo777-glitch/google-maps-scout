@@ -1,5 +1,54 @@
 {
-  "generated_at": "2026-10-23T12:19",
-  "run_label": "23/10/2026",
-  "leads": []
+  "generated_at": "2026-10-24T11:46",
+  "run_label": "24/10/2026",
+  "leads": [
+    {
+      "name": "Linea Sana",
+      "sector": "Estetica",
+      "city": "6900 Lugano",
+      "address": "Via Pretorio 11, 6900 Lugano, Switzerland",
+      "phone": "091 923 20 90",
+      "email": null,
+      "employees": null,
+      "description": "Estetica a 6900 Lugano. Rating: 4.8 (51 recensioni).",
+      "subject": "Miglioriamo la presenza online di Linea Sana",
+      "body": "Buongiorno,\n\nHo visitato il sito di Linea Sana e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "Auto Bellinzona Nord",
+      "sector": "Negozio",
+      "city": "6500 Bellinzona",
+      "address": "Via S. Gottardo 57, 6500 Bellinzona, Switzerland",
+      "phone": "091 835 43 00",
+      "email": null,
+      "employees": null,
+      "description": "Negozio a 6500 Bellinzona. Rating: 4.7 (113 recensioni).",
+      "subject": "Miglioriamo la presenza online di Auto Bellinzona Nord",
+      "body": "Buongiorno,\n\nHo visitato il sito di Auto Bellinzona Nord e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "Auto Storelli",
+      "sector": "Negozio",
+      "city": "6612 Ascona",
+      "address": "Via Locarno 15, 6612 Ascona, Switzerland",
+      "phone": "091 785 80 60",
+      "email": null,
+      "employees": null,
+      "description": "Negozio a 6612 Ascona. Rating: 4.5 (97 recensioni).",
+      "subject": "Miglioriamo la presenza online di Auto Storelli",
+      "body": "Buongiorno,\n\nHo visitato il sito di Auto Storelli e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "Winteler SA - Giubiasco",
+      "sector": "Negozio",
+      "city": "6512 Giubiasco",
+      "address": "Via Mondari 7, 6512 Giubiasco, Switzerland",
+      "phone": "091 850 60 60",
+      "email": null,
+      "employees": null,
+      "description": "Negozio a 6512 Giubiasco. Rating: 4.6 (411 recensioni).",
+      "subject": "Miglioriamo la presenza online di Winteler SA - Giubiasco",
+      "body": "Buongiorno,\n\nHo visitato il sito di Winteler SA - Giubiasco e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    }
+  ]
 }
