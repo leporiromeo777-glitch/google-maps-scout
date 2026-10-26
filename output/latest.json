@@ -1,5 +1,18 @@
 {
-  "generated_at": "2026-10-25T12:15",
-  "run_label": "25/10/2026",
-  "leads": []
+  "generated_at": "2026-10-26T13:47",
+  "run_label": "26/10/2026",
+  "leads": [
+    {
+      "name": "Beauty Room",
+      "sector": "Estetica",
+      "city": "6900 Lugano",
+      "address": "Via Antonio Adamini 32, 6900 Lugano, Switzerland",
+      "phone": "076 415 26 05",
+      "email": null,
+      "employees": null,
+      "description": "Estetica a 6900 Lugano. Rating: 4.8 (27 recensioni).",
+      "subject": "Miglioriamo la presenza online di Beauty Room",
+      "body": "Buongiorno,\n\nHo visitato il sito di Beauty Room e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    }
+  ]
 }
