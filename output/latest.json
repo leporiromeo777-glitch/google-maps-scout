@@ -1,5 +1,30 @@
 {
-  "generated_at": "2026-10-28T13:42",
-  "run_label": "28/10/2026",
-  "leads": []
+  "generated_at": "2026-10-29T13:52",
+  "run_label": "29/10/2026",
+  "leads": [
+    {
+      "name": "Studio Dentistico Dr. Luca e Andrea Moor",
+      "sector": "Studio dentistico",
+      "city": "6900 Lugano",
+      "address": "Via Pretorio 5, 6900 Lugano, Switzerland",
+      "phone": "091 923 27 12",
+      "email": null,
+      "employees": null,
+      "description": "Studio dentistico a 6900 Lugano. Rating: 5 (8 recensioni).",
+      "subject": "Miglioriamo la presenza online di Studio Dentistico Dr. Luca e Andrea Moor",
+      "body": "Buongiorno,\n\nHo visitato il sito di Studio Dentistico Dr. Luca e Andrea Moor e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "Studio Dentistico Lugano - Medico Dentista Renata Bakaj",
+      "sector": "Studio dentistico",
+      "city": "6915 Pambio-Noranco",
+      "address": "Via Pian Scairolo 11, 6915 Pambio-Noranco, Switzerland",
+      "phone": "091 220 02 02",
+      "email": null,
+      "employees": null,
+      "description": "Studio dentistico a 6915 Pambio-Noranco. Rating: 5 (74 recensioni).",
+      "subject": "Miglioriamo la presenza online di Studio Dentistico Lugano - Medico Dentista Renata Bakaj",
+      "body": "Buongiorno,\n\nHo visitato il sito di Studio Dentistico Lugano - Medico Dentista Renata Bakaj e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    }
+  ]
 }
