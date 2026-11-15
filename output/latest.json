@@ -1,5 +1,18 @@
 {
-  "generated_at": "2026-11-14T13:53",
-  "run_label": "14/11/2026",
-  "leads": []
+  "generated_at": "2026-11-15T14:27",
+  "run_label": "15/11/2026",
+  "leads": [
+    {
+      "name": "ZARA",
+      "sector": "Negozio abbigliamento",
+      "city": "6916 Collina d'Oro",
+      "address": "6916 Collina d'Oro, Switzerland",
+      "phone": "0800 000 900",
+      "email": null,
+      "employees": null,
+      "description": "Negozio abbigliamento a 6916 Collina d'Oro. Rating: 4.1 (206 recensioni).",
+      "subject": "Miglioriamo la presenza online di ZARA",
+      "body": "Buongiorno,\n\nHo visitato il sito di ZARA e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    }
+  ]
 }
