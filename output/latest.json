@@ -1,18 +1,42 @@
 {
-  "generated_at": "2026-11-15T14:27",
-  "run_label": "15/11/2026",
+  "generated_at": "2026-11-16T16:40",
+  "run_label": "16/11/2026",
   "leads": [
     {
-      "name": "ZARA",
-      "sector": "Negozio abbigliamento",
-      "city": "6916 Collina d'Oro",
-      "address": "6916 Collina d'Oro, Switzerland",
-      "phone": "0800 000 900",
+      "name": "Faby Beauty Lab",
+      "sector": "Estetica",
+      "city": "6900 Lugano",
+      "address": "Via al Colle 2, 6900 Lugano, Switzerland",
+      "phone": "076 588 67 46",
       "email": null,
       "employees": null,
-      "description": "Negozio abbigliamento a 6916 Collina d'Oro. Rating: 4.1 (206 recensioni).",
-      "subject": "Miglioriamo la presenza online di ZARA",
-      "body": "Buongiorno,\n\nHo visitato il sito di ZARA e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+      "description": "Estetica a 6900 Lugano. Rating: 4.9 (17 recensioni).",
+      "subject": "Miglioriamo la presenza online di Faby Beauty Lab",
+      "body": "Buongiorno,\n\nHo visitato il sito di Faby Beauty Lab e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "PM Hair Lashes & Beauty - Pipicella Mari",
+      "sector": "Estetica",
+      "city": "6900 Lugano",
+      "address": "Via Cortivallo 22, 6900 Lugano, Switzerland",
+      "phone": "079 102 70 00",
+      "email": null,
+      "employees": null,
+      "description": "Estetica a 6900 Lugano. Rating: 5 (43 recensioni).",
+      "subject": "Miglioriamo la presenza online di PM Hair Lashes & Beauty - Pipicella Mari",
+      "body": "Buongiorno,\n\nHo visitato il sito di PM Hair Lashes & Beauty - Pipicella Mari e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
+    },
+    {
+      "name": "Bosch Car Service - Lesina Martinelli Marcello",
+      "sector": "Officina auto",
+      "city": "21037 Lavena Ponte Tresa VA",
+      "address": "Via Marconi, 4, 21037 Lavena Ponte Tresa VA, Italy",
+      "phone": "0332 550455",
+      "email": null,
+      "employees": null,
+      "description": "Officina auto a 21037 Lavena Ponte Tresa VA. Rating: 4.6 (169 recensioni).",
+      "subject": "Miglioriamo la presenza online di Bosch Car Service - Lesina Martinelli Marcello",
+      "body": "Buongiorno,\n\nHo visitato il sito di Bosch Car Service - Lesina Martinelli Marcello e credo ci siano margini per migliorare la visibilità su Google e aumentare le richieste di contatto.\n\nOffro servizi di ottimizzazione SEO e restyling web per attività come la vostra.\n\nPosso inviarvi un'analisi gratuita?\n\nCordiali saluti"
     }
   ]
 }
